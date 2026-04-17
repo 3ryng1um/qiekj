@@ -5,7 +5,7 @@ from jsonpath_ng import parse
 import traceback
 
 # ip=47.110.172.244
-shopID = "" # 店铺ID
+shopID = "202011211129580000018669638151" # 店铺ID
 
 CYAN = '\033[96m'
 MAGENTA = '\033[95m'
